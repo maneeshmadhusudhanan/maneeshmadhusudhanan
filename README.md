@@ -1,21 +1,115 @@
-<h1 align="center">Hi 👋, I'm MANEESH MADHUSUDHANAN</h1>
-<h3 align="center">A passionate FULLSTACK BLOCKCHAIN DEVELOPER from INDIA</h3>
+<div align="center">
+  <h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00D2F7&center=true&vCenter=true&width=600&lines=MANEESH+MADHUSUDHANAN;Full-Stack+Developer;Blockchain+Enthusiast" alt="Typing Animation" />
+    </a>
+  </h1>
+  
+  ![GitHub Profile Views](https://komarev.com/ghpvc/?username=maneeshmadhusudhanan&style=flat-square&color=00d2f7&label=PROFILE+VIEWS)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maneeshmadhusudhanan&label=Profile%20views&color=0e75b6&style=flat" alt="maneeshmadhusudhanan" /> </p>
+  <div align="center" style="margin: 20px 0">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-47b6c9a7-25a2-40e1-93e5-5b7b44e76b69.gif" width="300" alt="Coding Animation">
+  </div>
+</div>
 
-- 💬 Ask me about **I am MANEESH MADHUSUDHANAN,a dedicated full-stack developer with a Post Graduate Diploma in Blockchain Architecture from Kerala Blockchain Academy (KBA). With a strong foundation in MERN stack technologies—MongoDB, Express.js, React.js, and Node.js—I specialize in building dynamic, responsive, and scalable web applications. My expertise extends across the entire development lifecycle, from front-end interfaces to back-end server management, ensuring seamless integration and functionality.**
+## 🚀 About Me
 
-- 📫 How to reach me **maneeshroks@gmail.com**
+```typescript
+const maneesh = {
+  pronouns: "He/Him",
+  education: {
+    btech: "Electrical & Electronics Engineering @ MG College of Engineering",
+    pgDiploma: "Blockchain Architecture @ Kerala Blockchain Academy"
+  },
+  technicalStack: {
+    blockchain: ["Solidity", "Web3.js", "Hardhat"],
+    frontend: ["React.js", "React Native", "Tailwind CSS", "Next.js"],
+    backend: ["Node.js", "Express.js", "Nest.js", "MongoDB"],
+    mobile: ["iOS", "Android"],
+    tools: ["Docker", "Git", "Postman", "Figma"]
+  },
+  currentFocus: "Building decentralized applications with seamless UX",
+  hobbies: ["UI/UX Design", "Robotics", "Graphic Design"]
+};
+📚 Education & Certification
+<div style="background: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #1A1F29; margin: 20px 0;">
+🎓 PG Diploma in Blockchain Architecture
+Kerala Blockchain Academy (Apr 2024 - Oct 2024)
+Smart Contract Development DApp Architecture
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/maneesh madhusudhanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maneesh madhusudhanan" height="30" width="40" /></a>
-</p>
+🎓 B.Tech in Electrical & Electronics Engineering
+MG College of Engineering (2014-2018)
+Robotics Embedded Systems
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+📜 Certifications
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maneeshmadhusudhanan&show_icons=true&locale=en&layout=compact" alt="maneeshmadhusudhanan" /></p>
+Digital University Kerala: Full-Stack Development
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maneeshmadhusudhanan&show_icons=true&locale=en" alt="maneeshmadhusudhanan" /></p>
+G-Tech Education: Graphic Design (Adobe Suite)
 
+Indian Institute of Space Science and Technology: Satellite Programming
+
+</div>
+🛠 Technical Arsenal
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 30px 0;">
+React
+Solidity
+Node.js
+MongoDB
+Docker
+React Native
+Tailwind CSS
+Figma
+
+</div>
+💼 Professional Experience
+<div style="background: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #1A1F29; margin: 20px 0;">
+🔧 Software Developer
+Digital University Kerala (Current)
+
+Developed full-stack applications using MERN stack
+
+Implemented pixel-perfect UI/UX designs in React.js
+
+Built RESTful APIs with Node.js and Express
+
+Created mobile applications with React Native
+
+🎨 Graphic Designer
+G-Tech Education (Dec 2012 - Dec 2015)
+
+Created visual assets using Adobe Photoshop & Illustrator
+
+Designed marketing materials and UI prototypes
+
+Developed brand identity systems
+
+</div>
+🌟 Featured Projects
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
+Weather Forecast App
+React.js Node.js MongoDB Tailwind CSS
+Real-time weather forecasting platform with 7-day predictions
+
+Job Recruitment Platform
+React Native Nest.js PostgreSQL Figma
+AI-powered job matching platform with employer dashboard
+
+Military SpyCam Robot
+Embedded C Raspberry Pi OpenCV
+Autonomous mine detection robot with live video streaming
+
+</div>
+📈 Development Analytics
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"><a href="https://github.com/maneeshmadhusudhanan"> <img width="400" src="https://github-readme-stats.vercel.app/api?username=maneeshmadhusudhanan&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=00D2F7&icon_color=00D2F7" alt="GitHub Stats"> </a><a href="https://github.com/maneeshmadhusudhanan"> <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=maneeshmadhusudhanan&theme=dark&hide_border=true&background=00000000&stroke=00D2F7&ring=00D2F7&fire=00D2F7&currStreakNum=00D2F7&sideNums=00D2F7&currStreakLabel=00D2F7" alt="GitHub Streak"> </a></div>
+📞 Let's Connect
+<div align="center" style="margin: 40px 0;">
+LinkedIn
+GitHub
+Email
+Phone
+
+</div><div align="center" style="margin-top: 40px;"> <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%" alt="Divider">
+<sub><sup>✨ "First, solve the problem. Then, write the code." - John Johnson</sup></sub>
+
+</div> ```
