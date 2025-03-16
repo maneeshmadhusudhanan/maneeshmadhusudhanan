@@ -82,16 +82,30 @@ I specialize in:
 
 ### 📣 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/maneesh-madhusudhanan-50967a132/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <!-- Professional Networks -->
+  <a href="https://www.linkedin.com/in/maneesh-madhusudhanan-50967a132/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/maneeshmadhusudhanan" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <a href="https://profile.indeed.com/p/maneeshm-sjz8bwg" target="_blank">
+    <img src="https://img.shields.io/badge/-Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed"/>
+  </a>
+
+  <!-- Code & Collaboration -->
+  <a href="https://github.com/maneeshmadhusudhanan" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <!-- Direct Communication -->
+  <a href="tel:+918281422036">
+    <img src="https://img.shields.io/badge/-Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call"/>
+  </a>
+  <a href="https://wa.me/918281422036">
+    <img src="https://img.shields.io/badge/-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="mailto:maneeshroks@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
----
-
 
 ---
 
