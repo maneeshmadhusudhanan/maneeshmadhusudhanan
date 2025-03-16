@@ -4,7 +4,7 @@
 
 
 
-- 📫 How to reach me **maneeshroks@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -86,7 +86,7 @@ I specialize in:
   <a href="https://www.linkedin.com/in/maneesh-madhusudhanan-50967a132/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://profile.indeed.com/p/maneeshm-sjz8bwg" target="_blank">
+  <a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-indapply-SmartApply&_ga=2.167508089.637766814.1742099316-764413216.1742099133" target="_blank">
     <img src="https://img.shields.io/badge/-Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed"/>
   </a>
 
