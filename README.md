@@ -5,7 +5,12 @@
 
 
 -------
-
+<!-- Animated Developer Scene -->
+  <div style="position: relative; height: 400px; margin: 2rem 0">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" style="width: 100%; height: 100%">
+      <!-- [Keep all previous SVG code from the AI Developer Scene] -->
+    </svg>
+  </div>
 --------
 
 ---
