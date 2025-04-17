@@ -16,7 +16,7 @@
 - 💬 Ask me about **I am MANEESH MADHUSUDHANAN, a dedicated **Full Stack Blockchain Developer** with a Post Graduate Diploma in Blockchain Architecture from Kerala Blockchain Academy (KBA). With a strong foundation in MERN stack technologies.I specialize in building dynamic, responsive, and scalable web applications. My expertise extends across the entire development lifecycle, from front-end interfaces to back-end server management, ensuring seamless integration and functionality.**
 
 I specialize in:
-- **Smart Contract Development** (Ethereum, Hardhat, Solidity, Sepolia Testnet, OpenZeppelin)
+- **Smart Contract Development** (Ethereum, Hardhat, Solidity, OpenZeppelin)
 - **Decentralized Applications (DApps)**
 - **MERN Stack Development** (MongoDB, Express.js, React.js, Node.js)
 - **Mobile App Development** (React Native, Expo)
