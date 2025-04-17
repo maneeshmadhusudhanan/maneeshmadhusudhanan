@@ -10,6 +10,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=F7B801&center=true&vCenter=true&width=700&lines=Fullstack+Blockchain+Developer;MERN+Stack+Expert;Passionate+about+Decentralized+Technology" alt="Typing SVG" />
 </p>
 
+
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Guy" width="100%" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maneeshmadhusudhanan&label=Profile%20views&color=0e75b6&style=flat" alt="maneeshmadhusudhanan" /> </p>
+
+
 ---
   
 
