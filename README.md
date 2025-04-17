@@ -4,12 +4,34 @@
 
 
 
+-------
 
-
+<!-- 1. Developer at Desk with Code Running -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=F7B801&center=true&vCenter=true&width=700&lines=Fullstack+Blockchain+Developer;MERN+Stack+Expert;Passionate+about+Decentralized+Technology" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="coding-dev" width="100%" />
 </p>
 
+<!-- 2. Relaxed Dev with Code in Background (Looped Aesthetic) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="relaxed-dev" width="100%" />
+</p>
+
+<!-- 3. Chill Developer with Coffee & Code Flow -->
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="chill-dev" width="100%" />
+</p>
+
+<!-- 4. Anime/Cartoon-style Dev with Running Code -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="anime-coding" width="100%" />
+</p>
+
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=maneeshmadhusudhanan&label=Profile%20views&color=0e75b6&style=flat" alt="maneeshmadhusudhanan" />
+</p>
+
+--------
 
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Guy" width="100%" />
